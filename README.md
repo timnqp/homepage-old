@@ -1,4 +1,0 @@
-homepage
-========
-
-My homepage
