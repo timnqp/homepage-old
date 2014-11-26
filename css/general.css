@@ -249,6 +249,12 @@ color: #ECEBEB;
 	color: white;
 }
 
+.nav-index {
+	position: absolute;
+	bottom: 20px !important;
+	right: 40px !important;
+}
+
 .intro-header {
 	height: 100%; /* Full Page */
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
@@ -318,7 +324,7 @@ color: #ECEBEB;
 	height: 100%;
 	background-color: #f8f8f8;
 	padding: 90px 0;
-	background: url(../img/background/Image2176.JPG) no-repeat center center;
+	background: url(../img/background/IMG_20140726_131358.JPG) no-repeat center center;
 	background-size: cover;
 }
 
