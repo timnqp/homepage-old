@@ -253,6 +253,31 @@ color: #ECEBEB;
 	position: absolute;
 	bottom: 20px !important;
 	right: 40px !important;
+	color: orange;
+}
+
+.image-bottom-left {
+	position: absolute;
+	bottom: 20px !important;
+	left: 20px !important;
+}
+
+.image-bottom-right {
+	position: absolute;
+	bottom: 20px !important;
+	right: 20px !important;
+}
+
+.image-top-left {
+	position: absolute;
+	top: 20px !important;
+	left: 20px !important;
+}
+
+.image-top-right {
+	position: absolute;
+	top: 20px !important;
+	right: 20px !important;
 }
 
 .intro-header {
